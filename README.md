@@ -35,11 +35,11 @@ After you publish your knowledge base, a client application sends a user's quest
 For input source i use a Editorial custom question and answer type.
 ## Output
 ![Picture2](https://user-images.githubusercontent.com/71881295/160243365-5a79dd46-15e2-4473-a12a-858ec57929d1.png)
-![Screenshot 2023-12-27 165205](https://github.com/Aman916715/Gym-management/assets/152375923/05eb6077-af9a-46bd-a2c5-85a605b4b5e0)
-![Screenshot 2023-12-27 165337](https://github.com/Aman916715/Gym-management/assets/152375923/acc83cec-cc0b-4fb4-9098-f5041ae438ff)
-![3](https://github.com/Aman916715/Gym-management/assets/152375923/a7f2c0a6-f8be-4c51-950d-67e31b02417c).
-![4](https://github.com/Aman916715/Gym-management/assets/152375923/0344e937-d8a1-4b01-8c24-24130451a695)
-![5](https://github.com/Aman916715/Gym-management/assets/152375923/460eb3b9-6610-422f-a04c-797b7d0ed8b9)
+![image](https://github.com/Naitik1313/Antique-cafe/assets/154999784/9eb1a954-75b5-4331-8e9b-12fb0c4c038e)
+![image](https://github.com/Naitik1313/Antique-cafe/assets/154999784/dc8abc3f-1056-4bfd-bf88-e32bb29ae183)
+![image](https://github.com/Naitik1313/Antique-cafe/assets/154999784/782943cf-9a20-4625-8231-20addd25c026)
+![image](https://github.com/Naitik1313/Antique-cafe/assets/154999784/04aca065-390d-4c87-a252-906033cc73aa)
+![image](https://github.com/Naitik1313/Antique-cafe/assets/154999784/11b213d2-7a1d-42c6-9df0-a6cedefe7b0e)
 ## *Chapter-II*
 
 ## Microsoft Azure Bot Framework Architecture(Resource visualizer)
@@ -94,31 +94,31 @@ If you would like to design the application which needs to extract the informati
 
 ### Create a Resource Group on Azure
 
-![resource grp](https://github.com/Aman916715/Gym-management/assets/152375923/293c4e97-bd62-453e-b4e1-b8fed44b63cd)
+![image](https://github.com/Naitik1313/Antique-cafe/assets/154999784/1b42670f-e39c-4f86-a8aa-f1c39ec0cf59)
 
 ## Task2
 
 ### Create a Language Service on Azure
 
-![language](https://github.com/Aman916715/Gym-management/assets/152375923/08d048d2-3436-4734-8283-acbaddf3b39f)
+![image](https://github.com/Naitik1313/Antique-cafe/assets/154999784/6b115777-746c-4d0c-8a1d-774837fa64ee)
 
 ## Task3
 
 ### Create a Knowledge Base on Azure
 
-![kb](https://github.com/Aman916715/Gym-management/assets/152375923/35f92a60-6dbf-4796-b5c1-4f74d2c43233)
+![image](https://github.com/Naitik1313/Antique-cafe/assets/154999784/5149d4f0-e6f7-44ef-aed5-3d3a5abd062c)
 
 ## Task4
 
 ### Create an App Service on Azure
 
-![app service](https://github.com/Aman916715/Gym-management/assets/152375923/eb27648a-bb20-4b27-93a4-6c948fce0149)
+![image](https://github.com/Naitik1313/Antique-cafe/assets/154999784/965594c6-d222-4e51-baac-e3ab7eb71fce)
 
 ## Task5
 
 ### Create a Web App Bot on Azure
 
-![bot](https://github.com/Aman916715/Gym-management/assets/152375923/5105c553-ea00-4871-9cf2-3eab6c4c39c5)
+![image](https://github.com/Naitik1313/Antique-cafe/assets/154999784/cb7ba92b-c2fe-4c6a-bae6-e7808d3f15d4)
 
 ## Task6
 
