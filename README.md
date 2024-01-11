@@ -147,7 +147,7 @@ Drive video URL: https://drive.google.com/file/d/1C0pjzqUlGPY9UPzaC_NHx0l0XBMpTr
 
 Drive documentation URL: https://drive.google.com/file/d/1tMh160GIWKbT7Qy6y-R8gap9ldUC1goZ/view?usp=sharing
 
-project URL: https://aman916715.github.io/Gym-management/
+project URL: 
 
 
 ## Acknowledgements
