@@ -125,13 +125,11 @@ If you would like to design the application which needs to extract the informati
 ### Testing my Bot on Azure
 
 
-![ls1](https://github.com/Aman916715/Gym-management/assets/152375923/22304459-7f37-457c-bfc6-bfb87c59007d)
-
-![ls2](https://github.com/Aman916715/Gym-management/assets/152375923/1fdb720c-8f59-4c85-a253-ebaa66164fa3)
+![image](https://github.com/Naitik1313/Antique-cafe/assets/154999784/c3aa7aa0-62b3-46b1-97f5-6502d975fb42)
 
 
 ## Expected Outcome
-By the end of this milestone, you would be having a working chatbot system that solve your problems about Muscle gaining,Diet Plan and Lose fat.
+By the end of this milestone, you would be having a working chatbot system that solve your problems about Drinks and coffee.
 
 ## Technologies / Tools Used
 
@@ -145,11 +143,12 @@ By the end of this milestone, you would be having a working chatbot system that 
 
 
 ## URLs
-Demo video YT URL: 
+Drive video URL: https://drive.google.com/file/d/1C0pjzqUlGPY9UPzaC_NHx0l0XBMpTrXb/view?usp=sharing 
+
+Drive documentation URL: https://drive.google.com/file/d/1tMh160GIWKbT7Qy6y-R8gap9ldUC1goZ/view?usp=sharing
 
 project URL: https://aman916715.github.io/Gym-management/
 
-Azure Account ID: amangupta9076@gmail.com
 
 ## Acknowledgements
 My sincere thanks, to Microsoft for an impressive QnA Maker service on MS Azure Cloud to make the chatbot development easy.
